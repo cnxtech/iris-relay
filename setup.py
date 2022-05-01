@@ -19,7 +19,7 @@ setuptools.setup(
         'requests-futures==0.9.9',
         # TODO: update google client
         'google-api-python-client==1.4.2',
-        'SQLAlchemy==1.2.0',
+        'SQLAlchemy==1.3.0',
         'PyMySQL==0.7.11',
         'oauth2client==1.4.12',
         'simplejson==3.8.1',
