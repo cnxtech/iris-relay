@@ -15,7 +15,7 @@ setuptools.setup(
         'pysaml2==4.4.0',
         'PyYAML==3.13',
         'gevent==1.4.0',
-        'requests==2.20.1',
+        'requests==2.31.0',
         'requests-futures==0.9.9',
         # TODO: update google client
         'google-api-python-client==1.4.2',
